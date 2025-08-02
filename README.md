@@ -1,2 +1,3 @@
-# First-demo-
+# First-demo
 This is my first Git Repository 
+Author - Deep Gajjar
